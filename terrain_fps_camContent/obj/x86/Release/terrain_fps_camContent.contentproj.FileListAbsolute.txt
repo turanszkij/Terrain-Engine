@@ -1,0 +1,2 @@
+D:\PROJECTS\XNA\terrain_fps_cam\terrain_fps_cam\terrain_fps_camContent\obj\x86\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\XNA\terrain_fps_tps_cam_weather_water_reflections\terrain_fps_cam\terrain_fps_camContent\obj\x86\Release\terrain_fps_camContent.contentprojResolveAssemblyReference.cache

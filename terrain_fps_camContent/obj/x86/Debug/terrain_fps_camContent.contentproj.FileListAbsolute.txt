@@ -1,0 +1,7 @@
+D:\PROJECTS\XNA\terrain_fps_cam\terrain_fps_cam\terrain_fps_camContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROJECTS\XNA\terrain_fps_cam\terrain_fps_cam\terrain_fps_camContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\XNA\terrain_fps_tps_cam\terrain_fps_cam\terrain_fps_camContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\XNA\terrain_fps_tps_cam_snow\terrain_fps_cam\terrain_fps_camContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\XNA\terrain_fps_tps_cam_weather_water\terrain_fps_cam\terrain_fps_camContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\turan_000\Desktop\terrain_fps_tps_cam_weather_water_reflections\terrain_fps_tps_cam_weather_water_reflections\terrain_fps_cam\terrain_fps_camContent\obj\x86\Debug\terrain_fps_camContent.contentprojResolveAssemblyReference.cache
+D:\PROJECTS\XNA\terrain_fps_tps_cam_weather_water_reflections\terrain_fps_cam\terrain_fps_camContent\obj\x86\Debug\terrain_fps_camContent.contentprojResolveAssemblyReference.cache

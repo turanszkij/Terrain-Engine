@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "terrain_fps_cam", "terrain_fps_cam\terrain_fps_cam\terrain_fps_cam.csproj", "{218DC483-804B-4330-AB20-E81CB081F0E1}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "terrain_fps_camContent", "terrain_fps_cam\terrain_fps_camContent\terrain_fps_camContent.contentproj", "{24198587-E6A9-4073-863A-56DB7493ADFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218DC483-804B-4330-AB20-E81CB081F0E1}.Debug|x86.ActiveCfg = Debug|x86
+		{218DC483-804B-4330-AB20-E81CB081F0E1}.Debug|x86.Build.0 = Debug|x86
+		{218DC483-804B-4330-AB20-E81CB081F0E1}.Release|x86.ActiveCfg = Release|x86
+		{218DC483-804B-4330-AB20-E81CB081F0E1}.Release|x86.Build.0 = Release|x86
+		{24198587-E6A9-4073-863A-56DB7493ADFB}.Debug|x86.ActiveCfg = Debug|x86
+		{24198587-E6A9-4073-863A-56DB7493ADFB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
